@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 650">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#081B2E"/><stop offset="1" stop-color="#17344D"/></linearGradient>
+ <linearGradient id="gold" x1="0" x2="1"><stop stop-color="#D4A843"/><stop offset="1" stop-color="#E6C66A"/></linearGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+<rect width="1200" height="650" fill="url(#bg)"/>
+<circle cx="920" cy="170" r="150" fill="#D4A843" opacity=".09" filter="url(#blur)"/>
+<g fill="none" stroke="#D4A843" opacity=".45">
+ <path d="M650 520 Q850 300 1130 470" stroke-width="2"/>
+ <path d="M600 570 Q850 350 1180 510" stroke-width="1"/>
+ <path d="M700 590 Q900 430 1200 550" stroke-width="1"/>
+</g>
+<g transform="translate(760 95)">
+ <path fill="url(#gold)" d="M0 80 190 0l190 80-190 80z"/>
+ <path fill="#D4A843" d="M55 130v130l135 70 135-70V130l-135 80z"/>
+ <path fill="#081B2E" d="M135 180h110v45H135z"/>
+ <path fill="#D4A843" d="M380 80h28v105h-28zM0 80h28v105H0z"/>
+</g>
+<text x="70" y="105" font-family="Georgia,serif" font-size="26" fill="#E6C66A" letter-spacing="4">SMART ASSESSMENTS</text>
+<text x="70" y="155" font-family="Georgia,serif" font-size="58" font-weight="700" fill="#F8F6F0">Knowledge</text>
+<text x="70" y="220" font-family="Georgia,serif" font-size="58" font-weight="700" fill="#D4A843">Builds Futures.</text>
+</svg>

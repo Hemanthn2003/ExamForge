@@ -1,0 +1,17 @@
+/* ExamForge Premium Academic — design tokens */
+:root {
+  --ef-navy-950: #050F1A;
+  --ef-navy-900: #081B2E;
+  --ef-navy-800: #0D2438;
+  --ef-navy-700: #17344D;
+  --ef-gold-500: #D4A843;
+  --ef-gold-400: #E6C66A;
+  --ef-ivory-50: #FCFBF7;
+  --ef-ivory-100: #F8F6F0;
+  --ef-cream-200: #F1EEE5;
+  --ef-slate-500: #687789;
+  --ef-slate-700: #334255;
+  --ef-success: #168B70;
+  --ef-danger: #C94A4A;
+  --ef-warning: #B98222;
+}

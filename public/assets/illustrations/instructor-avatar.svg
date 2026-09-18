@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160">
+    <circle cx="80" cy="80" r="80" fill="#F1EEE5"/>
+    <circle cx="80" cy="62" r="28" fill="#168B70" opacity=".9"/>
+    <path d="M32 140c5-37 28-52 48-52s43 15 48 52" fill="#168B70" opacity=".9"/>
+    <text x="80" y="152" text-anchor="middle" font-family="Arial" font-size="0" fill="none">PM</text>
+    </svg>
